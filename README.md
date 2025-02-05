@@ -1,6 +1,6 @@
 ---
 
-# Real Estate Price Prediction using Linear Regression
+# Real Estate Price Prediction using Linear Regression.
 
 This repository contains a machine learning model that predicts real estate prices based on various property features. The model uses **Linear Regression**, a supervised learning algorithm, to estimate house prices. The goal is to predict the price of a property using features such as the number of bedrooms, square footage, and location.
 
